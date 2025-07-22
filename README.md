@@ -90,7 +90,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Pranav Dev J**  
 Data Analyst | Power BI Enthusiast  
-[LinkedIn](#) • [Portfolio](#) • [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/pranav-dev-j-7610972a9/) • [GitHub](https://github.com/yourusername)
 
 ---
 
