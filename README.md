@@ -80,11 +80,7 @@ The **HR Analytics Dashboard** is a comprehensive business intelligence solution
 
 ---
 
-## 🧾 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Author
 
